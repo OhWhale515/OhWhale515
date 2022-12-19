@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OhWhale515
+- 👋 Hi, I’m Sterling Green from Code Green Projects
 - 👀 I’m interested in Full Stack and Gaming Development
 - 🌱 I’m currently learning various coding languages
 - 💞️ I’m looking to collaborate on Games and Projects
