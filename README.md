@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **sterlinggreen515@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Welcome! Thank you for the support.</h3>
 <p align="left">
 </p>
 
