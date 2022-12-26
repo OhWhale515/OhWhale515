@@ -9,6 +9,7 @@
 
 - 📫 How to reach me: **sterlinggreen515@gmail.com**
 
+- 🏢 Project Inquires: **codegreenprojects@gmail.com**
 <h3 align="left">Welcome! Thank you for the support.</h3>
 <p align="left">
 </p>
