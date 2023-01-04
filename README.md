@@ -1,3 +1,7 @@
+
+<td><img src="Welcome.png" alt=""></td>
+
+
 <h1 align="center">Code Green Projects: Sterling Green</h1>
 <h3 align="center">Full Stack Development</h3>
 
