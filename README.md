@@ -1,9 +1,4 @@
-
 <td><img src="Welcome.png" alt=""  width="600" height="325></td>
-
-
-<h3>Code Green Projects: Sterling Green</h3>
-<h3 align="center">Full Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohwhale515&label=Profile%20views&color=0e75b6&style=flat" alt="ohwhale515" /> </p>
 
