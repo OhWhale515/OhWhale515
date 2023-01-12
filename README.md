@@ -1,10 +1,3 @@
-
-#<td><img src="Welcome.png" alt=""  width="400" height="200></td>
-
-
-<h3 align="center">Code Green Projects: Sterling Green</h3>
-<h3 align="center">Full Stack Development</h3>
-
 <td><img src="Welcome.png" alt=""  width="700" height="425></td>
 
 
