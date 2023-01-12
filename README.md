@@ -1,5 +1,5 @@
 
-<td><img src="Welcome.png" alt=""  width="400" height="200></td>
+#<td><img src="Welcome.png" alt=""  width="400" height="200></td>
 
 
 <h3 align="center">Code Green Projects: Sterling Green</h3>
