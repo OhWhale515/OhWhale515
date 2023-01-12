@@ -1,4 +1,4 @@
-<td><img src="Welcome.png" alt=""  width="700" height="425></td>
+<td><img src="Welcome.png" alt=""  width="800" height="425></td>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ohwhale515&label=Profile%20views&color=0e75b6&style=flat" alt="ohwhale515" /> </p>
