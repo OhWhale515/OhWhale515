@@ -1,8 +1,16 @@
+
+<td><img src="Welcome.png" alt=""  width="400" height="200></td>
+
+
+<h3 align="center">Code Green Projects: Sterling Green</h3>
+<h3 align="center">Full Stack Development</h3>
+
 <td><img src="Welcome.png" alt=""  width="700" height="425></td>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ohwhale515&label=Profile%20views&color=0e75b6&style=flat" alt="ohwhale515" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohwhale515" alt="ohwhale515" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ohwhale515&label=Profile%20views&color=0e75b6&style=flat" alt="ohwhale515" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohwhale515" alt="ohwhale515" /></a> </p>
 
 - 💬 Ask me about: **Anything honestly. Building is KEY!**
 
