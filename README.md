@@ -1,11 +1,5 @@
 <td><img src="Welcome.png" alt=""  width="800" height="425></td>
 
-<td><img src=<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29fd2b1e-3976-4782-9c02-6139edb0d7fe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>alt=""  width="200" height="125></td>
-
-
-
-              
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ohwhale515&label=Profile%20views&color=0e75b6&style=flat" alt="ohwhale515" /> </p>
 
@@ -28,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohwhale515&show_icons=true&locale=en"  alt="ohwhale515" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohwhale515&" alt="ohwhale515" /></p>
+  
+  <p><td><img src=<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29fd2b1e-3976-4782-9c02-6139edb0d7fe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>alt=""  width="200" height="125></td></p>
