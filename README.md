@@ -23,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohwhale515&" alt="ohwhale515" /></p>
   
-  <p><td><img src=<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29fd2b1e-3976-4782-9c02-6139edb0d7fe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>alt=""  width="200" height="125></td></p>
