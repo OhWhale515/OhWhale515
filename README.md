@@ -128,7 +128,7 @@
 
 <div align="center">
 
-### 🌠 Thank you for the support — keep building! 🌠
+### 🌠 Thank you for the support! keep building! 🌠
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
