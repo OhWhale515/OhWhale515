@@ -1,115 +1,135 @@
 <div align="center">
 
-<img src="Welcome.png" alt="Mission Control Banner" width="100%" />
+<!-- HEADER BANNER — replace with your own image if you have one hosted -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=OhWhale515&fontSize=70&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Building%20from%20the%20cosmos%20%F0%9F%AA%90&descAlignY=60&descSize=18&descColor=CC99FF" width="100%"/>
 
-# ⚡ STERLING GREEN
-### `ohWhale515` • SYSTEMS • DEVOPS • AUTOMATION • CREATIVE TECH
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=ohwhale515&label=👁️%20Profile%20Views&color=7B2FBE&style=for-the-badge" alt="ohwhale515"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ohwhale515&label=VISITORS&color=7c3aed&style=for-the-badge" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/ohwhale515?style=for-the-badge&color=9333ea&labelColor=020617" alt="followers" />
-  <img src="https://img.shields.io/github/stars/ohwhale515?style=for-the-badge&color=a855f7&labelColor=020617" alt="stars" />
-</p>
-
-<p align="center">
-  <a href="mailto:sterlinggreen515@gmail.com">
-    <img src="https://img.shields.io/badge/Personal_Email-sterlinggreen515%40gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="personal email" />
-  </a>
-  <a href="mailto:codegreenprojects@gmail.com">
-    <img src="https://img.shields.io/badge/Project_Inquiries-codegreenprojects%40gmail.com-7e22ce?style=for-the-badge&logo=gmail&logoColor=white" alt="project inquiries" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=MISSION+CONTROL+ACTIVE;Building+is+KEY;Cloud+%7C+DevOps+%7C+Automation;Systems+%3E+Noise;Execution+Over+Ideas" alt="typing intro" />
-</p>
+<!-- TROPHIES -->
+<br/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ohwhale515&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" alt="ohwhale515 trophies"/>
+</a>
 
 </div>
 
 ---
 
-# 🛸 MISSION CONTROL
-
-<table align="center" width="100%">
-  <tr>
-    <td valign="top" width="50%">
-
-## 🧠 IDENTITY
-
-```yaml
-name: Sterling Green
-alias: ohWhale515
-role: Systems Architect / Builder
-
-core_focus:
-  - DevOps Engineering
-  - Cloud Infrastructure
-  - Automation Systems
-  - Creative Technology
-  - Brand + System Integration
-
-mindset: Building is KEY
-status: ACTIVE
-</td> <td valign="top" width="50%">
-🎯 DIRECTIVE
-mission:
-  Design and deploy high-performance
-  systems, tools, and digital ecosystems
-  that convert ideas into execution.
-
-principles:
-  - Precision
-  - Speed
-  - Clean Architecture
-  - Scalability
-  - Real-World Utility
-</td> </tr> </table>
-⚡ SYSTEM OVERVIEW
-
-💬 Ask me about anything — building is KEY
-
-☁️ Specializing in DevOps, cloud, and automation pipelines
-
-🛠️ Building bots, platforms, workflows, and systems
-
-🎨 Operating in creative tech, branding, and digital media
-
-📫 sterlinggreen515@gmail.com
-
-🏢 codegreenprojects@gmail.com
-
-🏆 ACHIEVEMENT GRID
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ohwhale515&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="trophies" /> </div>
-📊 ANALYTICS TERMINAL
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ohwhale515&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&rank_icon=github" alt="github stats" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohwhale515&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=c084fc&text_color=e9d5ff" alt="top languages" /> </div> <div align="center"> <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ohwhale515&theme=midnight-purple&hide_border=true&background=00000000&stroke=a855f7&ring=c084fc&fire=a855f7" alt="streak stats" /> </div>
-⚙️ TECH MATRIX
 <div align="center">
-☁️ CLOUD / DEVOPS
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,grafana" alt="cloud and devops" />
-💻 DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,nodejs,react,django,flask,mongodb,mysql,postgres,sqlite" alt="development" />
-🧰 SYSTEM TOOLS
-<img src="https://skillicons.dev/icons?i=git,github,postman,selenium,redis" alt="system tools" />
-🎨 CREATIVE STACK
-<img src="https://skillicons.dev/icons?i=blender,ps,unity,unreal" alt="creative stack" />
-⚡ EXTENSIONS
-<img src="https://skillicons.dev/icons?i=android,bootstrap,cpp" alt="extensions" /> </div>
-🧬 CORE PHILOSOPHY
-<div align="center">
-BUILD BOLD
-BUILD CLEAN
-BUILD USEFUL
 
-SYSTEMS > NOISE
-EXECUTION > IDEAS
-CONSISTENCY > HYPE
+## 🌌 About Me
+
 </div>
-🚀 LIVE STATUS
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohwhale515&bg_color=000000&color=a855f7&line=c084fc&point=ffffff&hide_border=true" width="95%" alt="activity graph" /> </div>
-🤝 SUPPORT NODE
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+```
+╔══════════════════════════════╗
+║   🚀 BUILDER. CREATOR.       ║
+║      PROBLEM SOLVER.         ║
+╚══════════════════════════════╝
+```
+
+💬 **Ask me about:** Anything honestly. **Building is KEY!**
+
+📫 **Personal:** sterlinggreen515@gmail.com
+
+🏢 **Project Inquiries:** codegreenprojects@gmail.com
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ohwhale515&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=CC99FF&text_color=FFFFFF" alt="ohwhale515 stats"/>
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
-Thank you for the support.
 
-Every view, follow, and collaboration fuels the mission.
+## 🔥 Streak
 
-</div> ```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ohwhale515&theme=midnight-purple&hide_border=true&background=0D1117&ring=FFD700&fire=FF6B35&currStreakLabel=CC99FF" alt="ohwhale515 streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Languages & Tools
+
+<br/>
+
+<!-- Row 1: Cloud & DevOps -->
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- Row 2: Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD343)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- Row 3: Frameworks -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<!-- Row 4: Databases & Data -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+<!-- Row 5: Tools & Platforms -->
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ohwhale515&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" width="400" alt="ohwhale515 top langs"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌠 Thank you for the support — keep building! 🌠
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
