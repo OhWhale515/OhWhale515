@@ -2,6 +2,8 @@
   <img src="Welcome.png" alt="Welcome Banner" width="100%" />
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d2b,50:1a0533,100:0d0d2b&height=4" width="100%" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=80&lines=ohWhale515;Builder+%26+Creator;DevOps+%26+Creative+Tech;Building+is+KEY." alt="Typing SVG" />
@@ -24,9 +26,13 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d2b,50:1a0533,100:0d0d2b&height=4" width="100%" />
+
 ---
 
-<div align="center"><h2>◈ COMMAND CENTER</h2></div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=52&text=%E2%97%88%20COMMAND%20CENTER&fontSize=20&fontColor=c084fc&fontAlign=50&fontAlignY=62" width="100%" />
+</div>
 ```yaml
 Name:     Sterling Green
 Alias:    ohWhale515
@@ -38,7 +44,9 @@ Mission:  Merge DevOps, software, automation, media, and design into one ecosyst
 
 ---
 
-<div align="center"><h2>◈ OPERATOR INTEL</h2></div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=52&text=%E2%97%88%20OPERATOR%20INTEL&fontSize=20&fontColor=c084fc&fontAlign=50&fontAlignY=62" width="100%" />
+</div>
 
 <br/>
 
@@ -48,18 +56,14 @@ Mission:  Merge DevOps, software, automation, media, and design into one ecosyst
 
 <h3>🧠 About</h3>
 
-💬 Ask me about anything honestly — <strong>Building is KEY</strong>
-
-🚀 I create systems, tools, automations, platforms, and visuals
-
-🏗️ I operate across DevOps, cloud, creative tech, branding &amp; development
-
+💬 Ask me about anything honestly — <strong>Building is KEY</strong><br/>
+🚀 I create systems, tools, automations, platforms, and visuals<br/>
+🏗️ I operate across DevOps, cloud, creative tech, branding &amp; development<br/>
 ⚡ Always building. Always shipping.
 
 <h3>📡 Reach Me</h3>
 
-📫 Personal — sterlinggreen515@gmail.com
-
+📫 Personal — sterlinggreen515@gmail.com<br/>
 🏢 Projects — codegreenprojects@gmail.com
 
 </td>
@@ -84,51 +88,68 @@ Mission:  Merge DevOps, software, automation, media, and design into one ecosyst
 
 ---
 
-<div align="center"><h2>◈ TROPHY CABINET</h2></div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=52&text=%E2%97%88%20TROPHY%20CABINET&fontSize=20&fontColor=c084fc&fontAlign=50&fontAlignY=62" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ohwhale515&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=ohwhale515&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub Trophies" />
   </a>
 </div>
 
 ---
 
-<div align="center"><h2>◈ TECH ARSENAL</h2></div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=52&text=%E2%97%88%20TECH%20ARSENAL&fontSize=20&fontColor=c084fc&fontAlign=50&fontAlignY=62" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
 
 <h4>☁️ CLOUD &amp; DEVOPS</h4>
+
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,grafana&theme=dark&perline=7" />
 
 <h4>💻 LANGUAGES &amp; FRAMEWORKS</h4>
+
 <img src="https://skillicons.dev/icons?i=python,js,php,cpp,html,css,react,nodejs,django,flask,bootstrap&theme=dark&perline=11" />
 
 <h4>🗄️ DATABASES &amp; DATA</h4>
+
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&theme=dark&perline=5" />
 
 <h4>🧰 WORKFLOW &amp; PLATFORMS</h4>
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,selenium,arduino,android&theme=dark&perline=6" />
 
 <h4>🎨 CREATIVE &amp; GAME TECH</h4>
+
 <img src="https://skillicons.dev/icons?i=blender,photoshop,unity,unreal&theme=dark&perline=4" />
 
 </div>
 
 ---
 
-<div align="center"><h2>◈ ANALYTICS DECK</h2></div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=52&text=%E2%97%88%20ANALYTICS%20DECK&fontSize=20&fontColor=c084fc&fontAlign=50&fontAlignY=62" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ohwhale515&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohwhale515&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=c084fc&text_color=e9d5ff&langs_count=8" />
 
-<br/>
+<br/><br/>
 
 <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=ohwhale515&theme=midnight-purple&hide_border=true&background=00000000&stroke=a855f7&ring=c084fc&fire=a855f7&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=9d4edd" />
 
-<br/>
+<br/><br/>
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ohwhale515&theme=react-dark&bg_color=00000000&color=c084fc&line=7c3aed&point=a855f7&area=true&hide_border=true" />
 
@@ -136,21 +157,32 @@ Mission:  Merge DevOps, software, automation, media, and design into one ecosyst
 
 ---
 
-<div align="center"><h2>◈ BUILD PHILOSOPHY</h2></div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=52&text=%E2%97%88%20BUILD%20PHILOSOPHY&fontSize=20&fontColor=c084fc&fontAlign=50&fontAlignY=62" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
-<br/>
+
 <strong>Build bold. Build clean. Build useful.</strong>
-<br/><br/>
-<em>Turning ideas into systems, visuals, products, and real-world execution.</em>
+
 <br/>
+
+<em>Turning ideas into systems, visuals, products, and real-world execution.</em><br/>
 <em>Every line of code. Every design. Every deployment — intentional.</em>
-<br/><br/>
+
+<br/>
+
 </div>
 
 ---
 
 <div align="center">
-<h3>🤝 Thank you for the support.</h3>
-<p>I appreciate every view, follow, collaboration, and opportunity to build something great.</p>
+  <h3>🤝 Thank you for the support.</h3>
+  <p>I appreciate every view, follow, collaboration, and opportunity to build something great.</p>
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:3d0c6b,100:0d0d2b&height=140&section=footer&text=ohWhale515&fontSize=28&fontColor=c084fc&animation=fadeIn&fontAlignY=65" width="100%" />
