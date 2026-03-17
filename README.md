@@ -2,13 +2,9 @@
   <img src="Welcome.png" alt="Welcome Banner" width="100%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%" />
-
 <div align="center">
 
-<a href="https://github.com/ohwhale515">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=80&lines=ohWhale515;Builder+%26+Creator;DevOps+%26+Creative+Tech;Building+is+KEY." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=80&lines=ohWhale515;Builder+%26+Creator;DevOps+%26+Creative+Tech;Building+is+KEY." alt="Typing SVG" />
 
 <br/>
 
@@ -28,15 +24,9 @@
 
 </div>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%" />
-<br/>
-
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=52&text=%E2%97%88%20COMMAND%20CENTER&fontSize=20&fontColor=c084fc&fontAlign=50&fontAlignY=62" width="100%" />
-</div>
+<div align="center"><h2>◈ COMMAND CENTER</h2></div>
 ```yaml
 Name:     Sterling Green
 Alias:    ohWhale515
@@ -48,37 +38,34 @@ Mission:  Merge DevOps, software, automation, media, and design into one ecosyst
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=52&text=%E2%97%88%20OPERATOR%20INTEL&fontSize=20&fontColor=c084fc&fontAlign=50&fontAlignY=62" width="100%" />
-</div>
+<div align="center"><h2>◈ OPERATOR INTEL</h2></div>
 
 <br/>
 
-<table align="center" width="96%">
+<table>
 <tr>
-<td valign="top" width="48%">
+<td valign="top" width="50%">
 
-**🧠 About**
+<h3>🧠 About</h3>
 
-- 💬 Ask me about anything honestly — **Building is KEY**
-- 🚀 I create systems, tools, automations, platforms, and visuals
-- 🏗️ I operate across DevOps, cloud, creative tech, branding & development
-- ⚡ Always building. Always shipping.
+💬 Ask me about anything honestly — <strong>Building is KEY</strong>
 
-<br/>
+🚀 I create systems, tools, automations, platforms, and visuals
 
-**📡 Reach Me**
+🏗️ I operate across DevOps, cloud, creative tech, branding &amp; development
 
-| Channel | Address |
-|:---|:---|
-| 📫 Personal | sterlinggreen515@gmail.com |
-| 🏢 Projects | codegreenprojects@gmail.com |
+⚡ Always building. Always shipping.
+
+<h3>📡 Reach Me</h3>
+
+📫 Personal — sterlinggreen515@gmail.com
+
+🏢 Projects — codegreenprojects@gmail.com
 
 </td>
-<td valign="top" width="4%"></td>
-<td valign="top" width="48%">
+<td valign="top" width="50%">
 
-**⚙️ Core Stack**
+<h3>⚙️ Core Stack</h3>
 
 | Layer | Tech |
 |:---|:---|
@@ -97,11 +84,7 @@ Mission:  Merge DevOps, software, automation, media, and design into one ecosyst
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=52&text=%E2%97%88%20TROPHY%20CABINET&fontSize=20&fontColor=c084fc&fontAlign=50&fontAlignY=62" width="100%" />
-</div>
-
-<br/>
+<div align="center"><h2>◈ TROPHY CABINET</h2></div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -111,51 +94,30 @@ Mission:  Merge DevOps, software, automation, media, and design into one ecosyst
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=52&text=%E2%97%88%20TECH%20ARSENAL&fontSize=20&fontColor=c084fc&fontAlign=50&fontAlignY=62" width="100%" />
-</div>
-
-<br/>
+<div align="center"><h2>◈ TECH ARSENAL</h2></div>
 
 <div align="center">
 
-**`☁️  CLOUD & DEVOPS`**
-
+<h4>☁️ CLOUD &amp; DEVOPS</h4>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,grafana&theme=dark&perline=7" />
 
-<br/>
-
-**`💻  LANGUAGES & FRAMEWORKS`**
-
+<h4>💻 LANGUAGES &amp; FRAMEWORKS</h4>
 <img src="https://skillicons.dev/icons?i=python,js,php,cpp,html,css,react,nodejs,django,flask,bootstrap&theme=dark&perline=11" />
 
-<br/>
-
-**`🗄️  DATABASES & DATA`**
-
+<h4>🗄️ DATABASES &amp; DATA</h4>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&theme=dark&perline=5" />
 
-<br/>
-
-**`🧰  WORKFLOW & PLATFORMS`**
-
+<h4>🧰 WORKFLOW &amp; PLATFORMS</h4>
 <img src="https://skillicons.dev/icons?i=git,github,postman,selenium,arduino,android&theme=dark&perline=6" />
 
-<br/>
-
-**`🎨  CREATIVE & GAME TECH`**
-
+<h4>🎨 CREATIVE &amp; GAME TECH</h4>
 <img src="https://skillicons.dev/icons?i=blender,photoshop,unity,unreal&theme=dark&perline=4" />
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=52&text=%E2%97%88%20ANALYTICS%20DECK&fontSize=20&fontColor=c084fc&fontAlign=50&fontAlignY=62" width="100%" />
-</div>
-
-<br/>
+<div align="center"><h2>◈ ANALYTICS DECK</h2></div>
 
 <div align="center">
 
@@ -174,30 +136,21 @@ Mission:  Merge DevOps, software, automation, media, and design into one ecosyst
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=52&text=%E2%97%88%20BUILD%20PHILOSOPHY&fontSize=20&fontColor=c084fc&fontAlign=50&fontAlignY=62" width="100%" />
-</div>
+<div align="center"><h2>◈ BUILD PHILOSOPHY</h2></div>
 
+<div align="center">
 <br/>
-
-<div align="center">
-
-> **Build bold. Build clean. Build useful.**
-
-*Turning ideas into systems, visuals, products, and real-world execution.*
-*Every line of code. Every design. Every deployment — intentional.*
-
+<strong>Build bold. Build clean. Build useful.</strong>
+<br/><br/>
+<em>Turning ideas into systems, visuals, products, and real-world execution.</em>
+<br/>
+<em>Every line of code. Every design. Every deployment — intentional.</em>
+<br/><br/>
 </div>
 
 ---
 
 <div align="center">
-
 <h3>🤝 Thank you for the support.</h3>
 <p>I appreciate every view, follow, collaboration, and opportunity to build something great.</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=ohWhale515&fontSize=28&fontColor=c084fc&animation=fadeIn&fontAlignY=65" width="100%" />
-
 </div>
